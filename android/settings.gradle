@@ -1,0 +1,3 @@
+rootProject.name = 'SpatialMap'
+
+include ':app'
